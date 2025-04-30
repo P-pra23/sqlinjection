@@ -1,6 +1,6 @@
 # sqlinjection
 Exploiting SQL Injection vulnerability
-
+# date : 29\05\2025
 # AIM:
 To exploit SQL Injection vulnerability using Multidae web application in Metasploitable2
 
